@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
