@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0485-max-consecutive-ones) |
+| [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
