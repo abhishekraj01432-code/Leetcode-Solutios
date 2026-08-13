@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
