@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
