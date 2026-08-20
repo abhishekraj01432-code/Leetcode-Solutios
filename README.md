@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
