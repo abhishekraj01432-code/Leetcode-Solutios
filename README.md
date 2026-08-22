@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0058-length-of-last-word) |
 ## Stack
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0025-reverse-nodes-in-k-group) |
 | [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 ## Math
