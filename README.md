@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0001-two-sum) |
+| [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
