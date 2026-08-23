@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0027-remove-element) |
+| [0312-burst-balloons](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0994-rotting-oranges) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0010-regular-expression-matching) |
+| [0312-burst-balloons](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
