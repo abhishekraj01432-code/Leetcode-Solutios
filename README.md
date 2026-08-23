@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0151-reverse-words-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
