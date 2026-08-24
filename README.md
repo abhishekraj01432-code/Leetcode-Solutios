@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0022-generate-parentheses) |
 | [0312-burst-balloons](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
