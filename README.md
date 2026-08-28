@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0151-reverse-words-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
