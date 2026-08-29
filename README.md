@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0202-happy-number) |
 | [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
