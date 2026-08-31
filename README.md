@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0100-same-tree) |
 | [0994-rotting-oranges](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0704-binary-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Newton's Method
 |  |
 | ------- |
@@ -163,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
