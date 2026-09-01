@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0036-valid-sudoku) |
 | [0312-burst-balloons](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0036-valid-sudoku) |
 | [0994-rotting-oranges](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0202-happy-number) |
 | [1748-sum-of-unique-elements](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1748-sum-of-unique-elements) |
 ## String
