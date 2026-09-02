@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhishekraj01432-code/Leetcode-Solutios/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
